@@ -1,0 +1,1 @@
+Exploration of a simple API with ASP.NET Core
